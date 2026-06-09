@@ -10,6 +10,7 @@ La asignatura busca ejercitar todos los aspectos asociados al desarrollo de un p
 
 ```
 └── colab/    # Jupyter Notebooks para Google Colab
+└── datos/    # Archivos de datos
 ```
 
 ## Software
